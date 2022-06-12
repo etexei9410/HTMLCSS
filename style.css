@@ -343,7 +343,7 @@ h2 {
     width: 50%;
   }
 }
-@media (max-width: 376px) {
+@media (max-width: 380px) {
   .wrap {
     background-image: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/bg_home_sm.svg), url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/ball01.svg);
     background-repeat: no-repeat, no-repeat;
