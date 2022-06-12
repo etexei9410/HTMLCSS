@@ -318,7 +318,7 @@ h2 {
   background: #56c4c5;
   border-radius: 50px;
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .footer-plan .footer-pan {
     height: 461px;
     background-image: url("https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/footer_sm.svg");
@@ -334,7 +334,7 @@ h2 {
   text-align: center;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 576px) {
   .situation li {
     width: 50%;
   }
@@ -343,7 +343,7 @@ h2 {
     width: 50%;
   }
 }
-@media (max-width: 380px) {
+@media (min-width: 375px) {
   .wrap {
     background-image: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/bg_home_sm.svg), url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/ball01.svg);
     background-repeat: no-repeat, no-repeat;
