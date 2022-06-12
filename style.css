@@ -222,7 +222,7 @@ h2 {
 
 .feature-word {
   width: 49%;
-  padding: 165px 0 164px 12.59vw;
+  padding: 165px 0 164px 0;
 }
 .feature-word h2 {
   text-align: left;
@@ -336,7 +336,7 @@ h2 {
 
 
 
-@media (max-width: 576px) {
+@media  (max-width: 576px) {
   .situation li {
     width: 50%;
   }
@@ -345,7 +345,7 @@ h2 {
     width: 50%;
   }
 }
-@media (max-width: 375px) {
+@media screen and (max-width: 375px) {
   .wrap {
     background-image: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/bg_home_sm.svg), url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/ball01.svg);
     background-repeat: no-repeat, no-repeat;
